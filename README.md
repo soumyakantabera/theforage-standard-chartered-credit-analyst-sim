@@ -1,8 +1,24 @@
 # Standard Chartered Credit Analyst Virtual Experience – Green Solutions Case Study
 
+<p>
+  <img src="https://img.shields.io/badge/Program-Standard%20Chartered%20Credit%20Analyst-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Platform-The%20Forage-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge">
+</p>
+
 **Completed as part of the official Standard Chartered Bank Credit Analyst Virtual Experience Program (Forage)**
 
 This portfolio contains the full deliverables from the simulation, organised exactly as per the program structure.
+
+---
+
+## 📋 Table of Contents
+
+- [Task 1: Financial Statement Analysis & Risk Assessment](#task-1-financial-statement-analysis--risk-assessment)
+- [Task 2: Industry Analysis & Video Presentation](#task-2-industry-analysis--video-presentation)
+- [Key Skills Demonstrated](#key-skills-demonstrated)
+- [Important Note](#important-note)
+- [Repository Structure](#repository-structure)
 
 ---
 
@@ -58,7 +74,7 @@ This is an **educational case study** completed as part of the Standard Chartere
 
 ---
 
-**Repository Structure**
+## Repository Structure
 ```
 green-solutions-financial-analysis-portfolio/
 ├── README.md
